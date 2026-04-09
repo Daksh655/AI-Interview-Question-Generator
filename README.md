@@ -35,7 +35,7 @@ Frontend → Node.js Backend → LLM API → Response → UI
 ## How to Run Locally
 
 ### 1. Clone repository
-https://github.com/your-username/AI-Interview-Question-Generator.git
+https://github.com/Daksh655/AI-Interview-Question-Generator.git
 
 ### 2. Install dependencies
 npm install
